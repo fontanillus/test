@@ -1,0 +1,206 @@
+body {
+  font-family: Nunito, 'Open Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 65%;
+  height: 200px;
+  min-width: 300px;
+  max-width: 800px;
+  margin: 0 auto;
+  /*background-color: #fbf9ea;*/
+  -webkit-user-select: none;
+  /* Compatibilidad con WebKit */
+  user-select: none;
+  /* Para navegadores modernos */
+}
+
+h1 {
+color: rgb(255, 0, 81)
+}
+
+.derecha {
+text-align: right;
+}
+
+.dreta {
+  text-align: right;
+}
+
+.esquerra {
+text-align: left;
+}
+
+
+.primera {
+  width: 75%;
+  margin: 20px; 30px; 40px; 10px;
+  background-color: white;
+  border-top-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  border-top: rgb(255, 0, 81) 5px solid; 
+  border-left: rgb(255, 0, 81) 5px solid;
+  border-bottom: rgb(255, 0, 81) 5px solid;
+  border-right: rgb(255, 0, 81) 5px solid;
+  padding-left: 20px; 
+  padding-right: 100px;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  
+      }
+      
+  
+  .segunda {
+    width: 75%;
+    margin: 20px; 30px; 40px; 10px;
+    background-color: white;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top: rgb(255, 0, 81) 5px solid; 
+    border-left: rgb(255, 0, 81) 5px solid;
+    border-bottom: rgb(255, 0, 81) 5px solid;
+    border-right: rgb(255, 0, 81) 5px solid;
+    padding-left: 20px; 
+    padding-right: 100px;
+    padding-top: 0%;
+    padding-bottom: 0%;
+        }
+
+  .tercera {
+    width: 75%;
+    margin: 20px; 30px; 40px; 10px;
+    background-color: white;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top: rgb(255, 0, 81) 5px solid; 
+    border-left: rgb(255, 0, 81) 5px solid;
+    border-bottom: rgb(255, 0, 81) 5px solid;
+    border-right: rgb(255, 0, 81) 5px solid;
+    padding-left: 20px; 
+    padding-right: 100px;
+    padding-top: 0%;
+    padding-bottom: 0%;
+  }
+   
+  .cuarta {
+    width: 75%;
+    margin: 20px; 30px; 40px; 10px;
+    background-color: white;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top: rgb(255, 0, 81) 5px solid; 
+    border-left: rgb(255, 0, 81) 5px solid;
+    border-bottom: rgb(255, 0, 81) 5px solid;
+    border-right: rgb(255, 0, 81) 5px solid;
+    padding-left: 20px; 
+    padding-right: 100px;
+    padding-top: 0%;
+    padding-bottom: 0%;
+  }
+
+  .quinta {
+    width: 75%;
+    margin: 20px; 30px; 40px; 10px;
+    background-color: white;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top: rgb(255, 0, 81) 5px solid; 
+    border-left: rgb(255, 0, 81) 5px solid;
+    border-bottom: rgb(255, 0, 81) 5px solid;
+    border-right: rgb(255, 0, 81) 5px solid;
+    padding-left: 20px; 
+    padding-right: 100px;
+    padding-top: 0%;
+    padding-bottom: 0%; 
+  }
+
+  .sexta {
+    width: 75%;
+    margin: 20px; 30px; 40px; 10px;
+    background-color: white;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top: rgb(255, 0, 81) 5px solid; 
+    border-left: rgb(255, 0, 81) 5px solid;
+    border-bottom: rgb(255, 0, 81) 5px solid;
+    border-right: rgb(255, 0, 81) 5px solid;
+    padding-left: 20px; 
+    padding-right: 100px;
+    padding-top: 0%;
+    padding-bottom: 0%; 
+  }
+
+
+.septima {
+    width: 75%;
+    margin: 20px; 30px; 40px; 10px;
+    background-color: white;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top: rgb(255, 0, 81) 5px solid; 
+    border-left: rgb(255, 0, 81) 5px solid;
+    border-bottom: rgb(255, 0, 81) 5px solid;
+    border-right: rgb(255, 0, 81) 5px solid;
+    padding-left: 20px; 
+    padding-right: 100px;
+    padding-top: 0%;
+    padding-bottom: 0%; 
+  }
+
+       
+    button {
+      font-variant: small-caps;
+      cursor: pointer
+    }
+    
+    h4{
+    text-align: justify; 
+    }
+
+    hr {
+    border-color: pink;
+    background-color: rgb(255, 0, 81) 5px solid;
+    width: 100%;
+    
+    }
+
+    
+    input[type="radio"] {
+  appearance: none;
+  width: 12px;
+  height: 12px;
+  border: pink 3px solid;
+  background-color: pink;
+  /* border-radius: 1px; */
+  cursor: pointer;
+
+}
+
+input[type="radio"]:checked {
+  background-color: #000;
+
+  /* Cambia el color cuando está seleccionado */
+}
+        
+    .pagina {
+      text-align: right;
+      font-size: smaller;
+      
+    }
+
+    .page {
+      text-align: left;
+      font-size: smaller;
+    }
+
+    .red {
+    text-align: right;
+    font-size: smaller;
+    color: rgb(255, 0, 81)
+    }    
+
+    .red2 {
+    text-align: left;
+    font-size: smaller;
+    color: rgb(255, 0, 81);
+    }
+
+    
+    
